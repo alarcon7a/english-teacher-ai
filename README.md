@@ -4,6 +4,7 @@
 [![GitHub issues](https://img.shields.io/github/issues/TU_USUARIO/profesor-ingles-ia.svg)](https://github.com/TU_USUARIO/profesor-ingles-ia/issues)
 [![GitHub stars](https://img.shields.io/github/stars/TU_USUARIO/profesor-ingles-ia.svg)](https://github.com/TU_USUARIO/profesor-ingles-ia/stargazers)
 
+![image_fx_](https://github.com/user-attachments/assets/6d6ea8c6-237d-41dd-9505-b215657b2d92)
 
 ## Descripción
 
