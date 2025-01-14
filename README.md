@@ -4,9 +4,6 @@
 [![GitHub issues](https://img.shields.io/github/issues/TU_USUARIO/profesor-ingles-ia.svg)](https://github.com/TU_USUARIO/profesor-ingles-ia/issues)
 [![GitHub stars](https://img.shields.io/github/stars/TU_USUARIO/profesor-ingles-ia.svg)](https://github.com/TU_USUARIO/profesor-ingles-ia/stargazers)
 
-<p align="center">
-  <img src="assets/logo.png" alt="Logo del Proyecto" width="300">
-</p>
 
 ## Descripción
 
