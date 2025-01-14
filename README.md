@@ -79,14 +79,17 @@ GOOGLE_API_KEY = userdata.get('GOOGLE_API_KEY')
 os.environ['GOOGLE_API_KEY'] = GOOGLE_API_KEY
 ```
 ## Uso
-
-1. **Ejecuta la aplicación:**
+1. **Ejecuta Gemma con Ollama**
+```bash
+   ollama run gemma2
+```
+2. **Ejecuta la aplicación:**
 ```bash
    python teacher.py
 ```
 Esto iniciará la interfaz de Gradio en tu navegador.
 
-2. Podrias tambien ejecutar el notebook [English_teacher_with_gemini.ipynb ](https://github.com/alarcon7a/english-teacher-ai/blob/main/English_teacher_with_gemini.ipynb) paso a paso como guia para el uso de Gemini como tutor de ingles.
+3. Podrias tambien ejecutar el notebook [English_teacher_with_gemini.ipynb ](https://github.com/alarcon7a/english-teacher-ai/blob/main/English_teacher_with_gemini.ipynb) paso a paso como guia para el uso de Gemini como tutor de ingles.
 
 ### Interactúa con el tutor:
 
