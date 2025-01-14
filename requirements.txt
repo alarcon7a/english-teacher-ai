@@ -1,0 +1,13 @@
+fairseq2==0.2.0
+transformers==4.44.0
+sentencepiece==0.2.0
+accelerate==0.33.0
+langchain==0.2.10
+langchain-google-genai==1.0.8
+langchain-ollama==0.1.0
+gradio==5.7.1
+torch==2.1.2
+torchaudio==2.1.2
+torchvision==0.16.2
+scipy==1.10.1
+huggingface_hub==0.25.2
