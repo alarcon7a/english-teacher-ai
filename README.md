@@ -85,7 +85,7 @@ os.environ['GOOGLE_API_KEY'] = GOOGLE_API_KEY
 ```
 Esto iniciará la interfaz de Gradio en tu navegador.
 
-2. Podrias tambien ejecutar el archivo 
+2. Podrias tambien ejecutar el notebook [English_teacher_with_gemini.ipynb ](https://github.com/alarcon7a/english-teacher-ai/blob/main/English_teacher_with_gemini.ipynb) paso a paso como guia para el uso de Gemini como tutor de ingles.
 
 ### Interactúa con el tutor:
 
